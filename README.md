@@ -25,6 +25,13 @@ In summary, our NLP-based PowerPoint Generator offers an efficient approach to t
 documents into compelling presentations. With automated information extraction and voice over
 capabilities, users can create engaging slides with ease.
 
+![UI](https://github.com/pragathiyp/Generation-of-Storyboard-through-Text-Summarization/assets/90029094/9681c168-71e3-43d6-9f3a-f832510f1ced)
+
+![UI2](https://github.com/pragathiyp/Generation-of-Storyboard-through-Text-Summarization/assets/90029094/4f2e780b-215e-4084-91c6-92659c1abc63)
+
+![UI3](https://github.com/pragathiyp/Generation-of-Storyboard-through-Text-Summarization/assets/90029094/43cffaa8-b8c3-4352-bd33-e52378171814)
+
+![UI5](https://github.com/pragathiyp/Generation-of-Storyboard-through-Text-Summarization/assets/90029094/2c79480c-941f-4d2c-8702-04fe4ae84269)
 
 ## Scope of the Project
 The scope of this project encompasses the development of an advanced NLP-based PowerPoint
