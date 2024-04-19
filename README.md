@@ -57,6 +57,18 @@ comprehensive testing, our goal is to significantly reduce the time and effort r
 compelling presentations, empowering users with a powerful tool to enhance communication and
 productivity in various fields.
 
+## Literature Survey
+
+
+![Screenshot 2024-04-19 205107](https://github.com/pragathiyp/Generation-of-Storyboard-through-Text-Summarization/assets/90029094/f586590d-20ad-4ca7-b2b4-2647a3ab3277)
+
+![Screenshot 2024-04-19 205133](https://github.com/pragathiyp/Generation-of-Storyboard-through-Text-Summarization/assets/90029094/1620851f-a417-4b6d-b5d2-e7d9443da8dc)
+
+![Screenshot 2024-04-19 205150](https://github.com/pragathiyp/Generation-of-Storyboard-through-Text-Summarization/assets/90029094/9632e6d9-698e-4d19-8215-1c011eaac9fc)
+
+
+
+
 ## Design
 ### High Level Design
 The high-level design of the application involves a structured workflow that includes document
