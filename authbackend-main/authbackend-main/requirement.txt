@@ -1,0 +1,4 @@
+// add views for the front end part 
+// add the ppt generation logiv to s3 bucket 
+// add the local strategy 
+// post man api testing routes 
